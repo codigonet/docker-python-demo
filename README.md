@@ -10,5 +10,5 @@ cp .env-sample .env
 
 - Para crear una imagen docker local:
 ```
-docker build -t app-flask
+docker build -t app-flask .
 ```
